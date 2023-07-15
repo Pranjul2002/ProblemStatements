@@ -1,9 +1,7 @@
-package algorithm.sorting;
 
 //TASK--> Here we have to deleting the mid term of stack without using another stack or any other data structure.
 //Soln--> we solve this task with the help of recursion.
 
-import java.io.*;
 import java.util.*;
 
 class delMidOfStack {
